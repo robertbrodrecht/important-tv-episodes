@@ -3,10 +3,10 @@
 ## Thanksgiving Episodes
 
 ### Bob's Burgers
-- [x] S03E05: An Indecent Thanksgiving Proposal
-- [x] S04E05: Turkey in a Can
-- [x] S05E04: Dawn of the Peck
-- [x] S06E04: Gayle Makin' Bob Sled
+- [ ] S03E05: An Indecent Thanksgiving Proposal
+- [ ] S04E05: Turkey in a Can
+- [ ] S05E04: Dawn of the Peck
+- [ ] S06E04: Gayle Makin' Bob Sled
 - [ ] S07E06: The Quirkducers
 - [ ] S08E05: Thanks-Hoarding
 
