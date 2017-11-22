@@ -15,3 +15,6 @@
 
 ### Seinfeld
 - [ ] S06E08:  The Mom & Pop Store
+
+### Master of None
+- [ ] S02E08:  Thanksgiving
