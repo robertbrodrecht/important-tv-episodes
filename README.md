@@ -12,3 +12,6 @@
 
 ### Always Sunny in Philadelphia 
 - [ ] S09E10: The Gang Squashes Their Beefs
+
+### Seinfeld
+- [ ] S06E08:  The Mom & Pop Store
